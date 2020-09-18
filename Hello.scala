@@ -1,4 +1,4 @@
-object Sub {
+object Hello {
 
  def welcome(): Unit ={
    var greeting:String="Hello World";
